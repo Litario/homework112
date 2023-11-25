@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+venv/Lib
+
+/venv/
+.idea/
+.idea
+
+*.pyc
+__pycashe__
