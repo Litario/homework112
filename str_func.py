@@ -1,10 +1,11 @@
-def string_upper(v: str):
+def string_upper(v: str) -> str:
     """
     Функция, которая возвращает подданую строку со всеми заглавными буквами.
     """
     return v.upper()
 
-def sring_title(v: str):
+
+def sring_title(v: str) -> str:
     """
     Функция, которая возвращает подданую строку с заглавными первыми буквами.
     """
